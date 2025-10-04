@@ -1,0 +1,217 @@
+group_val,cat_col,diameter,group0,group1,n_group0,n_group1,test,statistic,p_value
+All,ICASS,BA_diameter,1.09 [0.90–1.29],1.06 [0.96–1.16],166,44,Mann-Whitney U,4057.0,0.25901452346195564
+All,ICASS,LICA_diameter,1.73 [1.49–1.95],1.74 [1.60–1.89],167,44,Mann-Whitney U,3767.0,0.7973857364975646
+All,ICASS,RICA_diameter,1.70 [1.45–1.97],1.70 [1.56–1.83],167,44,Mann-Whitney U,3856.0,0.6144373211507587
+All,ICAS,BA_diameter,1.09 [0.88–1.28],1.01 [0.82–1.20],194,16,Mann-Whitney U,1892.0,0.14616551225637875
+All,ICAS,LICA_diameter,1.71 [1.48–1.95],1.80 [1.55–2.06],195,16,Mann-Whitney U,1372.0,0.42450386967621123
+All,ICAS,RICA_diameter,1.70 [1.41–1.97],1.74 [1.50–1.98],195,16,Mann-Whitney U,1470.0,0.7030447291048997
+All,sex,BA_diameter,1.20 [1.15–1.25],0.88 [0.78–1.06],141,69,Mann-Whitney U,7379.0,1.214799345179316e-09
+All,sex,LICA_diameter,1.83 [1.63–2.19],1.45 [1.37–1.53],142,69,Mann-Whitney U,7954.0,2.109651154578127e-13
+All,sex,RICA_diameter,1.87 [1.80–1.94],1.42 [1.35–1.48],142,69,t-test,8.58124204941195,2.135468747998858e-15
+All,Alcohol,BA_diameter,1.16 [0.97–1.26],1.03 [0.83–1.29],68,142,Mann-Whitney U,5500.0,0.10317355200859221
+All,Alcohol,LICA_diameter,1.74 [1.58–1.97],1.70 [1.40–1.98],68,143,Mann-Whitney U,5284.0,0.30917922567480294
+All,Alcohol,RICA_diameter,1.80 [1.71–1.90],1.66 [1.36–1.96],68,143,Mann-Whitney U,5690.0,0.045880072941706325
+All,Smoke,BA_diameter,1.11 [0.90–1.33],0.97 [0.89–1.05],171,39,Mann-Whitney U,4403.0,0.0018157694476873302
+All,Smoke,LICA_diameter,1.75 [1.52–2.05],1.52 [1.40–1.63],172,39,Mann-Whitney U,4670.0,0.00013272217861482998
+All,Smoke,RICA_diameter,1.78 [1.71–1.84],1.47 [1.38–1.57],172,39,t-test,4.271414310942395,2.9486768888088498e-05
+All,HTN,BA_diameter,1.09 [0.87–1.29],1.05 [0.83–1.27],146,64,Mann-Whitney U,4854.0,0.6543157608446666
+All,HTN,LICA_diameter,1.73 [1.49–2.03],1.68 [1.42–1.93],147,64,Mann-Whitney U,5068.0,0.37259813057561464
+All,HTN,RICA_diameter,1.74 [1.67–1.80],1.69 [1.58–1.79],147,64,Mann-Whitney U,5082.0,0.35446813334305105
+All,DM,BA_diameter,1.07 [0.84–1.27],1.21 [1.09–1.33],177,33,Mann-Whitney U,2352.0,0.0763333359564181
+All,DM,LICA_diameter,1.71 [1.46–1.96],1.86 [1.68–2.03],178,33,Mann-Whitney U,2548.0,0.22781809346165127
+All,DM,RICA_diameter,1.71 [1.65–1.77],1.81 [1.64–1.98],178,33,Mann-Whitney U,2565.0,0.24881750977279593
+All,Dyslipidemia,BA_diameter,1.11 [1.06–1.17],1.03 [0.86–1.26],129,81,Mann-Whitney U,5422.0,0.6458046986205175
+All,Dyslipidemia,LICA_diameter,1.76 [1.68–1.83],1.67 [1.48–1.99],130,81,Mann-Whitney U,5393.0,0.7675281592788225
+All,Dyslipidemia,RICA_diameter,1.73 [1.65–1.80],1.71 [1.63–1.80],130,81,Mann-Whitney U,5329.0,0.8829542493860256
+CSVD score 0,ICASS,BA_diameter,1.12 [1.03–1.20],1.07 [0.89–1.26],53,15,Mann-Whitney U,428.0,0.6572489021995354
+CSVD score 0,ICASS,LICA_diameter,1.77 [1.66–1.88],1.67 [1.42–1.92],53,15,Mann-Whitney U,445.0,0.48695945331290336
+CSVD score 0,ICASS,RICA_diameter,1.74 [1.63–1.84],1.66 [1.40–1.92],53,15,Mann-Whitney U,440.0,0.5344677038170831
+CSVD score 0,ICAS,BA_diameter,1.12 [1.04–1.20],0.92 [0.53–1.30],64,4,Mann-Whitney U,183.0,0.16115964807799749
+CSVD score 0,ICAS,LICA_diameter,1.75 [1.65–1.85],1.73 [0.98–2.48],64,4,Mann-Whitney U,129.0,0.9899642061187274
+CSVD score 0,ICAS,RICA_diameter,1.72 [1.62–1.82],1.72 [0.87–2.57],64,4,Mann-Whitney U,134.0,0.890031127783542
+CSVD score 0,sex,BA_diameter,1.14 [1.06–1.23],1.01 [0.87–1.15],50,18,Mann-Whitney U,569.0,0.09950382054487009
+CSVD score 0,sex,LICA_diameter,1.86 [1.75–1.97],1.43 [1.29–1.57],50,18,Mann-Whitney U,731.0,9.650324455643563e-05
+CSVD score 0,sex,RICA_diameter,1.84 [1.73–1.94],1.39 [1.27–1.51],50,18,t-test,4.742655267294717,1.1690982283833113e-05
+CSVD score 0,Alcohol,BA_diameter,1.15 [1.04–1.26],1.01 [0.82–1.34],23,45,Mann-Whitney U,599.0,0.29372742493660076
+CSVD score 0,Alcohol,LICA_diameter,1.85 [1.70–1.99],1.70 [1.57–1.83],23,45,Mann-Whitney U,628.0,0.15389766544567607
+CSVD score 0,Alcohol,RICA_diameter,1.85 [1.71–1.99],1.65 [1.53–1.77],23,45,Mann-Whitney U,669.0,0.050304024097439004
+CSVD score 0,Smoke,BA_diameter,1.14 [1.06–1.22],0.95 [0.76–1.14],57,11,Mann-Whitney U,429.0,0.05545799988613503
+CSVD score 0,Smoke,LICA_diameter,1.82 [1.72–1.92],1.37 [1.16–1.57],57,11,Mann-Whitney U,516.0,0.0007676186181600329
+CSVD score 0,Smoke,RICA_diameter,1.79 [1.69–1.89],1.36 [1.17–1.54],57,11,Mann-Whitney U,503.0,0.0016455731625780654
+CSVD score 0,HTN,BA_diameter,1.12 [1.03–1.21],1.07 [0.95–1.20],52,16,Mann-Whitney U,450.0,0.6281454755831173
+CSVD score 0,HTN,LICA_diameter,1.81 [1.69–1.93],1.55 [1.40–1.71],52,16,Mann-Whitney U,570.0,0.026467439930276376
+CSVD score 0,HTN,RICA_diameter,1.78 [1.66–1.89],1.53 [1.38–1.69],52,16,Mann-Whitney U,568.0,0.02849757298165726
+CSVD score 0,DM,BA_diameter,1.11 [1.03–1.18],1.13 [0.25–2.01],65,3,Mann-Whitney U,98.0,0.9999999999999999
+CSVD score 0,DM,LICA_diameter,1.74 [1.64–1.84],2.00 [0.50–3.50],65,3,Mann-Whitney U,65.0,0.3560140474100088
+CSVD score 0,DM,RICA_diameter,1.71 [1.61–1.80],1.94 [0.52–3.36],65,3,Mann-Whitney U,67.0,0.3880197940777397
+CSVD score 0,Dyslipidemia,BA_diameter,1.08 [0.99–1.18],1.08 [0.93–1.37],44,24,Mann-Whitney U,460.0,0.38635893674464605
+CSVD score 0,Dyslipidemia,LICA_diameter,1.73 [1.61–1.85],1.78 [1.58–1.97],44,24,Mann-Whitney U,515.0,0.8725544199151449
+CSVD score 0,Dyslipidemia,RICA_diameter,1.72 [1.61–1.84],1.71 [1.53–1.89],44,24,Mann-Whitney U,545.0,0.8323041156133238
+CSVD score 1,ICASS,BA_diameter,1.13 [0.93–1.27],0.95 [0.83–1.07],69,17,Mann-Whitney U,816.0,0.013019589225088406
+CSVD score 1,ICASS,LICA_diameter,1.70 [1.49–1.96],1.73 [1.43–2.02],69,17,Mann-Whitney U,645.0,0.5293876095722727
+CSVD score 1,ICASS,RICA_diameter,1.71 [1.45–1.96],1.73 [1.45–2.00],69,17,Mann-Whitney U,603.0,0.8622576447243524
+CSVD score 1,ICAS,BA_diameter,1.08 [0.91–1.26],0.98 [0.71–1.24],79,7,Mann-Whitney U,338.0,0.3428908848090564
+CSVD score 1,ICAS,LICA_diameter,1.66 [1.48–1.96],1.71 [1.15–2.27],79,7,Mann-Whitney U,293.0,0.8046881857876865
+CSVD score 1,ICAS,RICA_diameter,1.71 [1.43–1.95],1.70 [1.16–2.23],79,7,Mann-Whitney U,276.0,1.0
+CSVD score 1,sex,BA_diameter,1.18 [0.99–1.38],0.94 [0.85–1.03],56,30,Mann-Whitney U,1288.0,5.017730057778843e-05
+CSVD score 1,sex,LICA_diameter,1.81 [1.62–2.23],1.38 [1.23–1.64],56,30,Mann-Whitney U,1353.0,3.4211683187006504e-06
+CSVD score 1,sex,RICA_diameter,1.91 [1.79–2.03],1.42 [1.30–1.54],56,30,Mann-Whitney U,1385.0,8.06792886515956e-07
+CSVD score 1,Alcohol,BA_diameter,1.17 [0.99–1.26],1.01 [0.84–1.26],24,62,Mann-Whitney U,930.0,0.07410459143055911
+CSVD score 1,Alcohol,LICA_diameter,1.76 [1.60–1.99],1.65 [1.38–2.02],24,62,Mann-Whitney U,847.0,0.32371367094662395
+CSVD score 1,Alcohol,RICA_diameter,1.84 [1.65–2.04],1.70 [1.58–1.81],24,62,Mann-Whitney U,882.0,0.18555949954157835
+CSVD score 1,Smoke,BA_diameter,1.15 [0.92–1.27],0.97 [0.85–1.10],68,18,Mann-Whitney U,827.0,0.02278479992837912
+CSVD score 1,Smoke,LICA_diameter,1.75 [1.56–2.09],1.52 [1.33–1.72],68,18,Mann-Whitney U,861.0,0.008340869778436831
+CSVD score 1,Smoke,RICA_diameter,1.81 [1.70–1.92],1.46 [1.30–1.63],68,18,Mann-Whitney U,892.0,0.0030069053237928873
+CSVD score 1,HTN,BA_diameter,1.08 [0.92–1.26],1.06 [0.94–1.18],63,23,Mann-Whitney U,805.0,0.4350819466998609
+CSVD score 1,HTN,LICA_diameter,1.65 [1.47–1.98],1.82 [1.57–2.07],63,23,Mann-Whitney U,700.0,0.8148627192282647
+CSVD score 1,HTN,RICA_diameter,1.73 [1.62–1.84],1.76 [1.52–2.00],63,23,Mann-Whitney U,726.0,0.9922155134001214
+CSVD score 1,DM,BA_diameter,1.10 [1.03–1.17],1.20 [1.00–1.41],72,14,Mann-Whitney U,416.0,0.30604818262121547
+CSVD score 1,DM,LICA_diameter,1.65 [1.42–1.97],1.96 [1.60–2.31],72,14,Mann-Whitney U,396.0,0.20857138040738932
+CSVD score 1,DM,RICA_diameter,1.71 [1.60–1.81],1.90 [1.58–2.23],72,14,Mann-Whitney U,396.0,0.20857138040738932
+CSVD score 1,Dyslipidemia,BA_diameter,1.16 [1.07–1.25],1.00 [0.89–1.21],54,32,Mann-Whitney U,1047.0,0.10299491911908427
+CSVD score 1,Dyslipidemia,LICA_diameter,1.80 [1.67–1.94],1.63 [1.48–1.80],54,32,Mann-Whitney U,950.0,0.44493864904070934
+CSVD score 1,Dyslipidemia,RICA_diameter,1.75 [1.62–1.88],1.72 [1.56–1.87],54,32,Mann-Whitney U,900.0,0.7511171730057531
+CSVD score 2,ICASS,BA_diameter,1.07 [0.98–1.17],1.20 [0.98–1.43],44,12,Mann-Whitney U,202.0,0.21943318739268347
+CSVD score 2,ICASS,LICA_diameter,1.70 [1.58–1.82],1.85 [1.61–2.08],45,12,Mann-Whitney U,215.0,0.2860696567812494
+CSVD score 2,ICASS,RICA_diameter,1.70 [1.57–1.82],1.70 [1.52–1.88],45,12,Mann-Whitney U,259.0,0.8371603453645393
+CSVD score 2,ICAS,BA_diameter,1.10 [1.01–1.19],1.13 [0.48–1.78],51,5,Mann-Whitney U,130.0,0.9555989084290972
+CSVD score 2,ICAS,LICA_diameter,1.70 [1.59–1.81],1.99 [1.65–2.33],52,5,Mann-Whitney U,72.0,0.10635126027380247
+CSVD score 2,ICAS,RICA_diameter,1.69 [1.58–1.80],1.83 [1.60–2.05],52,5,Mann-Whitney U,92.0,0.2999575363031172
+CSVD score 2,sex,BA_diameter,1.25 [1.15–1.35],0.85 [0.77–0.94],35,21,t-test,5.426481468662494,1.390778982977933e-06
+CSVD score 2,sex,LICA_diameter,1.90 [1.79–2.01],1.43 [1.28–1.59],36,21,Mann-Whitney U,633.0,2.5513608979799264e-05
+CSVD score 2,sex,RICA_diameter,1.86 [1.74–1.98],1.43 [1.30–1.56],36,21,Mann-Whitney U,612.0,0.00011209318265470261
+CSVD score 2,Alcohol,BA_diameter,1.10 [0.97–1.22],1.11 [0.98–1.23],21,35,Mann-Whitney U,369.0,0.9864970439218553
+CSVD score 2,Alcohol,LICA_diameter,1.67 [1.51–1.83],1.76 [1.62–1.90],21,36,Mann-Whitney U,328.0,0.41285416821654797
+CSVD score 2,Alcohol,RICA_diameter,1.69 [1.52–1.86],1.70 [1.57–1.84],21,36,Mann-Whitney U,385.0,0.9143686368580726
+CSVD score 2,Smoke,BA_diameter,1.13 [1.03–1.23],0.98 [0.81–1.16],46,10,Mann-Whitney U,284.0,0.2524029418162447
+CSVD score 2,Smoke,LICA_diameter,1.74 [1.62–1.86],1.67 [1.46–1.89],47,10,Mann-Whitney U,258.0,0.6368738663317023
+CSVD score 2,Smoke,RICA_diameter,1.72 [1.59–1.84],1.62 [1.46–1.78],47,10,t-test,0.7189011708924443,0.4752451609252768
+CSVD score 2,HTN,BA_diameter,1.08 [0.96–1.19],1.13 [0.99–1.28],31,25,Mann-Whitney U,356.0,0.6093979034580814
+CSVD score 2,HTN,LICA_diameter,1.73 [1.57–1.88],1.73 [1.58–1.88],32,25,Mann-Whitney U,393.0,0.9167479906864339
+CSVD score 2,HTN,RICA_diameter,1.68 [1.54–1.83],1.72 [1.56–1.87],32,25,Mann-Whitney U,359.0,0.5148474497092976
+CSVD score 2,DM,BA_diameter,1.05 [0.96–1.15],1.22 [1.04–1.41],40,16,Mann-Whitney U,235.0,0.125382188446035
+CSVD score 2,DM,LICA_diameter,1.72 [1.59–1.85],1.74 [1.56–1.93],41,16,Mann-Whitney U,312.0,0.7831100176564995
+CSVD score 2,DM,RICA_diameter,1.70 [1.57–1.82],1.70 [1.50–1.90],41,16,Mann-Whitney U,318.0,0.8660224650029782
+CSVD score 2,Dyslipidemia,BA_diameter,1.08 [0.97–1.19],1.13 [0.98–1.28],31,25,Mann-Whitney U,373.0,0.8175137041101844
+CSVD score 2,Dyslipidemia,LICA_diameter,1.71 [1.56–1.87],1.75 [1.60–1.89],32,25,Mann-Whitney U,375.0,0.693580037696546
+CSVD score 2,Dyslipidemia,RICA_diameter,1.69 [1.53–1.84],1.71 [1.57–1.86],32,25,Mann-Whitney U,359.0,0.5148474497092976
+SVD type 0,ICASS,BA_diameter,1.12 [1.06–1.18],1.05 [0.92–1.18],80,24,Mann-Whitney U,1091.0,0.31401678367341
+SVD type 0,ICASS,LICA_diameter,1.74 [1.56–1.96],1.72 [1.51–1.93],80,24,Mann-Whitney U,1042.0,0.5294890677897545
+SVD type 0,ICASS,RICA_diameter,1.73 [1.65–1.81],1.73 [1.53–1.93],80,24,Mann-Whitney U,975.0,0.9109265403036811
+SVD type 0,ICAS,BA_diameter,1.11 [1.05–1.17],1.01 [0.80–1.21],96,8,Mann-Whitney U,465.0,0.3325488870300284
+SVD type 0,ICAS,LICA_diameter,1.76 [1.68–1.84],1.82 [1.41–2.24],96,8,Mann-Whitney U,333.0,0.5447196335279595
+SVD type 0,ICAS,RICA_diameter,1.72 [1.64–1.80],1.84 [1.42–2.25],96,8,Mann-Whitney U,333.0,0.5447196335279595
+SVD type 0,sex,BA_diameter,1.16 [1.09–1.23],0.98 [0.89–1.08],72,32,Mann-Whitney U,1563.0,0.003838570429302532
+SVD type 0,sex,LICA_diameter,1.91 [1.81–2.00],1.45 [1.35–1.56],72,32,Mann-Whitney U,1908.0,1.0322658685479428e-07
+SVD type 0,sex,RICA_diameter,1.87 [1.79–1.96],1.40 [1.31–1.50],72,32,t-test,6.648382714007095,1.490442039721168e-09
+SVD type 0,Alcohol,BA_diameter,1.16 [1.01–1.25],1.07 [1.00–1.15],34,70,Mann-Whitney U,1429.0,0.09839049994045083
+SVD type 0,Alcohol,LICA_diameter,1.86 [1.74–1.97],1.72 [1.61–1.83],34,70,Mann-Whitney U,1429.0,0.09839049994045083
+SVD type 0,Alcohol,RICA_diameter,1.87 [1.76–1.99],1.66 [1.56–1.75],34,70,Mann-Whitney U,1564.0,0.009647849768970035
+SVD type 0,Smoke,BA_diameter,1.13 [1.07–1.20],0.98 [0.86–1.09],84,20,Mann-Whitney U,1105.0,0.029142078500866444
+SVD type 0,Smoke,LICA_diameter,1.84 [1.76–1.93],1.44 [1.29–1.59],84,20,Mann-Whitney U,1325.0,6.439762754369137e-05
+SVD type 0,Smoke,RICA_diameter,1.81 [1.73–1.89],1.39 [1.26–1.52],84,20,Mann-Whitney U,1361.0,1.7626575814697336e-05
+SVD type 0,HTN,BA_diameter,1.12 [1.05–1.19],1.05 [0.96–1.15],77,27,Mann-Whitney U,1180.0,0.2992707104957185
+SVD type 0,HTN,LICA_diameter,1.81 [1.72–1.90],1.64 [1.48–1.80],77,27,Mann-Whitney U,1310.0,0.0453003901882632
+SVD type 0,HTN,RICA_diameter,1.77 [1.68–1.86],1.61 [1.46–1.76],77,27,Mann-Whitney U,1291.0,0.06274655055573321
+SVD type 0,DM,BA_diameter,1.10 [1.04–1.16],1.10 [0.80–1.39],98,6,Mann-Whitney U,296.0,0.9837368989282178
+SVD type 0,DM,LICA_diameter,1.75 [1.67–1.83],2.05 [1.47–2.63],98,6,Mann-Whitney U,196.0,0.178591955755783
+SVD type 0,DM,RICA_diameter,1.71 [1.63–1.79],1.99 [1.51–2.48],98,6,Mann-Whitney U,187.0,0.14052658527725112
+SVD type 0,Dyslipidemia,BA_diameter,1.11 [1.03–1.19],1.09 [1.00–1.18],65,39,Mann-Whitney U,1320.0,0.7269777337451173
+SVD type 0,Dyslipidemia,LICA_diameter,1.77 [1.66–1.87],1.77 [1.62–1.91],65,39,Mann-Whitney U,1339.0,0.6335599807182926
+SVD type 0,Dyslipidemia,RICA_diameter,1.73 [1.63–1.82],1.73 [1.59–1.87],65,39,Mann-Whitney U,1313.0,0.762539358471265
+SVD type 1,ICASS,BA_diameter,0.97 [0.90–1.30],0.89 [0.69–1.09],24,7,Mann-Whitney U,120.0,0.09402888299440024
+SVD type 1,ICASS,LICA_diameter,1.62 [1.30–2.17],1.65 [1.08–2.21],24,7,Mann-Whitney U,98.0,0.5320342640921062
+SVD type 1,ICASS,RICA_diameter,1.70 [1.51–1.89],1.62 [1.05–2.19],24,7,Mann-Whitney U,98.0,0.5320342640921062
+SVD type 1,ICAS,BA_diameter,0.93 [0.90–1.27],0.82 [0.07–1.57],28,3,Mann-Whitney U,62.0,0.20378197997775305
+SVD type 1,ICAS,LICA_diameter,1.62 [1.31–2.17],1.43 [-0.10–2.95],28,3,Mann-Whitney U,63.0,0.18064516129032257
+SVD type 1,ICAS,RICA_diameter,1.72 [1.53–1.90],1.36 [-0.04–2.75],28,3,Mann-Whitney U,62.0,0.20378197997775305
+SVD type 1,sex,BA_diameter,1.08 [0.92–1.38],0.87 [0.72–1.01],20,11,Mann-Whitney U,174.0,0.008750011959814024
+SVD type 1,sex,LICA_diameter,1.89 [1.65–2.13],1.24 [1.20–1.47],20,11,Mann-Whitney U,172.0,0.011113878749909416
+SVD type 1,sex,RICA_diameter,1.85 [1.64–2.07],1.38 [1.13–1.63],20,11,Mann-Whitney U,175.0,0.00774575170514943
+SVD type 1,Alcohol,BA_diameter,1.20 [0.87–1.54],0.93 [0.84–1.22],7,24,Mann-Whitney U,104.0,0.3651456984493692
+SVD type 1,Alcohol,LICA_diameter,1.81 [1.31–2.30],1.60 [1.24–2.13],7,24,Mann-Whitney U,94.0,0.660601808277003
+SVD type 1,Alcohol,RICA_diameter,1.74 [1.34–2.14],1.67 [1.45–1.88],7,24,Mann-Whitney U,92.0,0.729005257503589
+SVD type 1,Smoke,BA_diameter,1.02 [0.90–1.30],0.87 [0.68–1.06],24,7,Mann-Whitney U,115.0,0.15270756681212744
+SVD type 1,Smoke,LICA_diameter,1.72 [1.38–2.17],1.46 [1.01–1.90],24,7,Mann-Whitney U,120.0,0.09402888299440024
+SVD type 1,Smoke,RICA_diameter,1.76 [1.55–1.96],1.43 [1.07–1.79],24,7,Mann-Whitney U,118.0,0.11498968464485705
+SVD type 1,HTN,BA_diameter,0.92 [0.86–1.26],1.05 [0.85–1.25],23,8,Mann-Whitney U,89.0,0.911982861615787
+SVD type 1,HTN,LICA_diameter,1.58 [1.30–2.01],1.81 [1.32–2.31],23,8,Mann-Whitney U,83.0,0.7068049653144202
+SVD type 1,HTN,RICA_diameter,1.66 [1.47–1.86],1.75 [1.25–2.24],23,8,Mann-Whitney U,87.0,0.8422605680892666
+SVD type 1,DM,BA_diameter,0.91 [0.83–1.21],1.25 [0.86–1.63],24,7,Mann-Whitney U,45.0,0.06820189574360876
+SVD type 1,DM,LICA_diameter,1.48 [1.24–1.90],1.95 [1.46–2.44],24,7,Mann-Whitney U,56.0,0.19865567629750056
+SVD type 1,DM,RICA_diameter,1.62 [1.41–1.82],1.90 [1.50–2.30],24,7,Mann-Whitney U,50.0,0.11498968464485705
+SVD type 1,Dyslipidemia,BA_diameter,1.06 [0.90–1.22],0.97 [0.92–1.23],21,10,Mann-Whitney U,87.0,0.4595973861839423
+SVD type 1,Dyslipidemia,LICA_diameter,1.58 [1.23–2.14],1.81 [1.40–2.22],21,10,Mann-Whitney U,88.0,0.48564493877199044
+SVD type 1,Dyslipidemia,RICA_diameter,1.65 [1.43–1.87],1.75 [1.38–2.11],21,10,Mann-Whitney U,92.0,0.5973456715788438
+SVD type 2,ICASS,BA_diameter,1.12 [0.92–1.33],1.20 [0.57–1.83],12,5,Mann-Whitney U,26.0,0.7213962508080154
+SVD type 2,ICASS,LICA_diameter,1.72 [1.47–1.97],1.94 [1.53–2.34],12,5,Mann-Whitney U,21.0,0.3826761473820297
+SVD type 2,ICASS,RICA_diameter,1.71 [1.44–1.99],1.67 [1.34–2.01],12,5,Mann-Whitney U,30.0,1.0
+SVD type 2,ICAS,BA_diameter,1.13 [0.94–1.32],1.19 [0.26–2.12],13,4,t-test,-0.28069214040353413,0.7827810334943732
+SVD type 2,ICAS,LICA_diameter,1.71 [1.49–1.94],2.02 [1.52–2.51],13,4,Mann-Whitney U,14.0,0.20168067226890757
+SVD type 2,ICAS,RICA_diameter,1.68 [1.42–1.94],1.78 [1.52–2.04],13,4,Mann-Whitney U,20.0,0.5487394957983193
+SVD type 2,sex,BA_diameter,1.30 [1.09–1.51],0.78 [0.62–0.94],12,5,Mann-Whitney U,55.0,0.006140917905623788
+SVD type 2,sex,LICA_diameter,1.95 [1.77–2.13],1.39 [1.08–1.69],12,5,Mann-Whitney U,57.0,0.002262443438914027
+SVD type 2,sex,RICA_diameter,1.82 [1.59–2.05],1.42 [1.03–1.82],12,5,Mann-Whitney U,47.0,0.08177117000646413
+SVD type 2,Alcohol,BA_diameter,1.13 [0.87–1.38],1.16 [0.83–1.50],8,9,Mann-Whitney U,34.0,0.8883587001234061
+SVD type 2,Alcohol,LICA_diameter,1.69 [1.42–1.95],1.87 [1.55–2.19],8,9,Mann-Whitney U,26.0,0.37038255861785274
+SVD type 2,Alcohol,RICA_diameter,1.66 [1.31–2.00],1.74 [1.45–2.03],8,9,Mann-Whitney U,30.0,0.6058412176059235
+SVD type 2,Smoke,BA_diameter,1.20 [0.98–1.43],0.96 [0.47–1.45],13,4,Mann-Whitney U,36.0,0.2957983193277311
+SVD type 2,Smoke,LICA_diameter,1.86 [1.64–2.08],1.53 [0.98–2.07],13,4,Mann-Whitney U,39.0,0.16302521008403362
+SVD type 2,Smoke,RICA_diameter,1.75 [1.51–1.99],1.54 [0.98–2.10],13,4,Mann-Whitney U,32.0,0.5487394957983193
+SVD type 2,HTN,BA_diameter,1.11 [0.82–1.40],1.18 [0.87–1.49],8,9,Mann-Whitney U,33.0,0.8148087206910737
+SVD type 2,HTN,LICA_diameter,1.77 [1.45–2.09],1.80 [1.49–2.10],8,9,Mann-Whitney U,34.0,0.8883587001234061
+SVD type 2,HTN,RICA_diameter,1.72 [1.40–2.04],1.69 [1.37–2.00],8,9,Mann-Whitney U,35.0,0.9625668449197862
+SVD type 2,DM,BA_diameter,1.06 [0.81–1.30],1.36 [1.09–1.64],12,5,Mann-Whitney U,16.0,0.15998707175177765
+SVD type 2,DM,LICA_diameter,1.72 [1.46–1.98],1.94 [1.63–2.26],12,5,Mann-Whitney U,18.0,0.2343244990303814
+SVD type 2,DM,RICA_diameter,1.65 [1.41–1.89],1.83 [1.32–2.33],12,5,Mann-Whitney U,22.0,0.4421460892049127
+SVD type 2,Dyslipidemia,BA_diameter,1.08 [0.78–1.38],1.21 [0.90–1.51],8,9,Mann-Whitney U,29.0,0.5414232825997531
+SVD type 2,Dyslipidemia,LICA_diameter,1.76 [1.45–2.07],1.81 [1.50–2.12],8,9,Mann-Whitney U,32.0,0.7429864253393665
+SVD type 2,Dyslipidemia,RICA_diameter,1.72 [1.38–2.07],1.68 [1.39–1.98],8,9,Mann-Whitney U,36.0,1.0
+SVD type 3,ICASS,BA_diameter,0.99 [0.81–1.26],1.05 [0.69–1.41],28,5,Mann-Whitney U,69.0,0.98060134155796
+SVD type 3,ICASS,LICA_diameter,1.74 [1.58–1.90],1.71 [1.12–2.30],28,5,Mann-Whitney U,77.0,0.7517022280648532
+SVD type 3,ICASS,RICA_diameter,1.74 [1.56–1.91],1.69 [1.19–2.19],28,5,Mann-Whitney U,74.0,0.8648498331479422
+SVD type 3,ICAS,BA_diameter,0.99 [0.81–1.26],nan [nan–nan],32,1,Mann-Whitney U,20.0,0.7878787878787876
+SVD type 3,ICAS,LICA_diameter,1.73 [1.58–1.88],nan [nan–nan],32,1,Mann-Whitney U,12.0,0.7878787878787876
+SVD type 3,ICAS,RICA_diameter,1.72 [1.56–1.88],nan [nan–nan],32,1,Mann-Whitney U,7.0,0.48484848484848486
+SVD type 3,sex,BA_diameter,1.19 [1.03–1.34],0.81 [0.73–0.98],21,12,Mann-Whitney U,197.0,0.008329919978381046
+SVD type 3,sex,LICA_diameter,1.89 [1.71–2.06],1.48 [1.25–1.70],21,12,Mann-Whitney U,198.0,0.0074546614689687445
+SVD type 3,sex,RICA_diameter,1.90 [1.71–2.09],1.43 [1.26–1.61],21,12,Mann-Whitney U,209.0,0.0020185802483102303
+SVD type 3,Alcohol,BA_diameter,0.87 [0.83–1.14],1.12 [0.96–1.29],10,23,Mann-Whitney U,96.0,0.46863536447629406
+SVD type 3,Alcohol,LICA_diameter,1.67 [1.44–1.89],1.77 [1.57–1.97],10,23,Mann-Whitney U,98.0,0.5180494011092558
+SVD type 3,Alcohol,RICA_diameter,1.68 [1.46–1.91],1.75 [1.54–1.96],10,23,Mann-Whitney U,109.0,0.8294151613648015
+SVD type 3,Smoke,BA_diameter,0.97 [0.82–1.26],1.05 [0.74–1.36],27,6,Mann-Whitney U,82.0,0.9818737991707959
+SVD type 3,Smoke,LICA_diameter,1.73 [1.55–1.91],1.77 [1.52–2.01],27,6,Mann-Whitney U,76.0,0.8378916689539604
+SVD type 3,Smoke,RICA_diameter,1.74 [1.56–1.93],1.67 [1.48–1.86],27,6,t-test,0.3738532324525091,0.7110583389425347
+SVD type 3,HTN,BA_diameter,1.08 [0.94–1.22],1.09 [0.80–1.38],23,10,Mann-Whitney U,122.0,0.7990129470191201
+SVD type 3,HTN,LICA_diameter,1.75 [1.57–1.94],1.70 [1.39–2.00],23,10,Mann-Whitney U,118.0,0.9219858186308934
+SVD type 3,HTN,RICA_diameter,1.69 [1.42–1.95],1.70 [1.40–2.00],23,10,Mann-Whitney U,114.0,0.9843732183156827
+SVD type 3,DM,BA_diameter,0.96 [0.81–1.25],1.21 [0.87–1.55],25,8,Mann-Whitney U,71.0,0.23643122419540663
+SVD type 3,DM,LICA_diameter,1.76 [1.58–1.94],1.68 [1.37–1.99],25,8,Mann-Whitney U,109.0,0.7262970828043132
+SVD type 3,DM,RICA_diameter,1.75 [1.57–1.94],1.66 [1.34–1.97],25,8,Mann-Whitney U,111.0,0.6652994967789184
+SVD type 3,Dyslipidemia,BA_diameter,1.07 [0.90–1.24],1.10 [0.91–1.30],18,15,Mann-Whitney U,133.0,0.9567498363337371
+SVD type 3,Dyslipidemia,LICA_diameter,1.69 [1.44–1.95],1.79 [1.64–1.94],18,15,t-test,-0.6765436863565588,0.5037126076962497
+SVD type 3,Dyslipidemia,RICA_diameter,1.46 [1.35–1.89],1.81 [1.67–1.96],18,15,Mann-Whitney U,89.0,0.0999582690159817
+SVD type 4,ICASS,BA_diameter,1.16 [1.03–1.28],1.33 [1.18–1.48],22,3,Mann-Whitney U,14.0,0.12782608695652176
+SVD type 4,ICASS,LICA_diameter,1.66 [1.50–1.86],1.83 [1.24–2.43],23,3,Mann-Whitney U,24.0,0.44153846153846155
+SVD type 4,ICASS,RICA_diameter,1.75 [1.55–1.96],1.66 [1.32–2.01],23,3,Mann-Whitney U,34.0,1.0
+SVD type 4,ICAS,BA_diameter,1.18 [1.07–1.29],nan [nan–nan],25,0,Insufficient data,,
+SVD type 4,ICAS,LICA_diameter,1.68 [1.52–1.86],nan [nan–nan],26,0,Insufficient data,,
+SVD type 4,ICAS,RICA_diameter,1.66 [1.51–1.90],nan [nan–nan],26,0,Insufficient data,,
+SVD type 4,sex,BA_diameter,1.31 [1.21–1.41],0.94 [0.78–1.11],16,9,Mann-Whitney U,129.0,0.0013805706260763017
+SVD type 4,sex,LICA_diameter,1.80 [1.62–1.86],1.47 [1.20–1.75],17,9,Mann-Whitney U,123.0,0.013165786141173242
+SVD type 4,sex,RICA_diameter,1.74 [1.60–2.05],1.48 [1.26–1.71],17,9,Mann-Whitney U,115.0,0.04055229729646387
+SVD type 4,Alcohol,BA_diameter,1.26 [1.06–1.46],1.13 [0.99–1.27],9,16,Mann-Whitney U,87.0,0.4117027470058471
+SVD type 4,Alcohol,LICA_diameter,1.80 [1.33–2.28],1.70 [1.53–1.88],9,17,Mann-Whitney U,79.0,0.9141594109425056
+SVD type 4,Alcohol,RICA_diameter,1.83 [1.36–2.29],1.70 [1.51–1.88],9,17,Mann-Whitney U,87.0,0.5899088966159687
+SVD type 4,Smoke,BA_diameter,1.19 [1.08–1.30],0.99 [0.84–1.15],23,2,Mann-Whitney U,28.0,0.6666666666666667
+SVD type 4,Smoke,LICA_diameter,1.68 [1.53–1.86],1.79 [1.64–1.94],24,2,Mann-Whitney U,22.0,0.8861538461538463
+SVD type 4,Smoke,RICA_diameter,1.64 [1.51–1.93],1.70 [1.67–1.72],24,2,Mann-Whitney U,21.0,0.8123076923076924
+SVD type 4,HTN,BA_diameter,1.18 [1.04–1.33],1.17 [0.96–1.37],15,10,Mann-Whitney U,82.0,0.7184320389103389
+SVD type 4,HTN,LICA_diameter,1.70 [1.47–1.92],1.70 [1.55–1.79],16,10,Mann-Whitney U,80.0,1.0
+SVD type 4,HTN,RICA_diameter,1.69 [1.46–1.91],1.68 [1.56–1.84],16,10,Mann-Whitney U,73.0,0.731914390166458
+SVD type 4,DM,BA_diameter,1.19 [1.07–1.31],1.14 [0.83–1.45],18,7,Mann-Whitney U,76.0,0.4583815269398793
+SVD type 4,DM,LICA_diameter,1.74 [1.57–1.91],1.58 [1.48–1.74],19,7,Mann-Whitney U,81.0,0.42726056552143504
+SVD type 4,DM,RICA_diameter,1.75 [1.58–1.92],1.72 [1.08–2.36],19,7,Mann-Whitney U,78.0,0.5335603526907874
+SVD type 4,Dyslipidemia,BA_diameter,1.26 [1.13–1.39],1.01 [0.83–1.18],17,8,Mann-Whitney U,109.0,0.015863902179691653
+SVD type 4,Dyslipidemia,LICA_diameter,1.81 [1.62–1.87],1.46 [1.27–1.66],18,8,Mann-Whitney U,124.0,0.0026832663903602117
+SVD type 4,Dyslipidemia,RICA_diameter,1.88 [1.65–2.11],1.44 [1.24–1.64],18,8,Mann-Whitney U,123.0,0.003350242434910627
